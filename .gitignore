@@ -5,6 +5,11 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 release.properties
 
+onebrc
+perf.data
+perf.data.old
+*.o
+
 # Eclipse
 .project
 .classpath
@@ -47,3 +52,5 @@ out/
 /*.out
 out_expected.txt
 /*-timing.json
+
+/result.txt
